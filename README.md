@@ -1,4 +1,4 @@
 # roni
 Monday 05, 2021
 
-learning is the best!
+learning is the key!
