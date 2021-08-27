@@ -1,0 +1,41 @@
+div {
+    background-color: rgb(230, 77, 103);
+    margin: 50px;
+    width: 300px;
+    height: 500px;
+    margin: 0 auto;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+header {
+    background-color: #d1e0e0;
+    width: 270px;
+    height: 90px;
+    border-radius: 50px;
+    margin: 0 auto;
+    font-size: xx-large;
+    color: #000000;
+    text-align: center;
+}
+
+table {
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+td {
+    width: 120px;
+    height: 60px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+td:active {
+    background-color: #e0e0d1;
+    border-radius: 50px;
+}
